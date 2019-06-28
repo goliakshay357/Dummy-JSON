@@ -3,5 +3,13 @@
         { "id":1, "name":"john", "age":21 },
         { "id":2, "name":"juhy", "age":41 },
         { "id":3, "name":"jack", "age":31 }        
+    ],
+
+    "details" : [
+        { "id":1, "state":"AP", "male": 12123,"female": 122, "others" : 122},
+        { "id":1, "state":"UP", "male": 123,"female": 12, "others" : 121},
+        { "id":1, "state":"MP", "male": 1123,"female": 112, "others" : 212},
+        { "id":1, "state":"KR", "male": 1213,"female": 2312, "others" : 112},
+        { "id":1, "state":"TS", "male": 12,"female": 312, "others" : 12}
     ]
 }
