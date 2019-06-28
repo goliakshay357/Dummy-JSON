@@ -15,10 +15,10 @@
 
     "eyeAlignment" : [
         {"id":1, "state": "AP", "RefractiveError":123 , "EyeA":1245, "EyeB":3467 },
-        {"id":1, "state": "UP", "RefractiveError":152 , "EyeA":345, "EyeB":3567 },
-        {"id":1, "state": "MP", "RefractiveError":163 , "EyeA":2345, "EyeB":3467 },
-        {"id":1, "state": "KR", "RefractiveError":153 , "EyeA":145, "EyeB":367 },
-        {"id":1, "state": "TS", "RefractiveError":163 , "EyeA":2345, "EyeB":457 }
+        {"id":2, "state": "UP", "RefractiveError":152 , "EyeA":345, "EyeB":3567 },
+        {"id":3, "state": "MP", "RefractiveError":163 , "EyeA":2345, "EyeB":3467 },
+        {"id":4, "state": "KR", "RefractiveError":153 , "EyeA":145, "EyeB":367 },
+        {"id":5, "state": "TS", "RefractiveError":163 , "EyeA":2345, "EyeB":457 }
     ] 
 
 
