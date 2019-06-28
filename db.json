@@ -11,5 +11,15 @@
         { "id":3, "state":"MP", "male": 1123,"female": 112, "others" : 212},
         { "id":4, "state":"KR", "male": 1213,"female": 2312, "others" : 112},
         { "id":5, "state":"TS", "male": 12,"female": 312, "others" : 12}
-    ]
+    ],
+
+    "eyeAlignment" : [
+        {"id":1, "state": "AP", "RefractiveError":123 , "EyeA":1245, "EyeB":3467 },
+        {"id":1, "state": "AP", "RefractiveError":152 , "EyeA":345, "EyeB":3567 },
+        {"id":1, "state": "AP", "RefractiveError":163 , "EyeA":2345, "EyeB":3467 },
+        {"id":1, "state": "AP", "RefractiveError":153 , "EyeA":145, "EyeB":367 },
+        {"id":1, "state": "AP", "RefractiveError":163 , "EyeA":2345, "EyeB":457 }
+    ] 
+
+
 }
